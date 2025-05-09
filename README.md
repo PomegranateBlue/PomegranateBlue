@@ -19,5 +19,10 @@ Here are some ideas to get you started:
 
 [![BluePome's GitHub stats](https://github-readme-stats.vercel.app/api?username=PomegranateBlue&bg_color=63222A&title_color=E8E8EB&text_color=E8E8EB)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!--START_SECTION:waka-->  
-  <!--END_SECTION:waka-->
+  <!--START_SECTION:waka-->
+
+```txt
+TypeScript   0 secs          █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
