@@ -22,10 +22,11 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 26 mins    ████████████████████▓░░░░   82.87 %
-Python       13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-YAML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript   2 hrs 1 min     ████████████████████░░░░░   79.48 %
+Python       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+TSConfig     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+CSS          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+YAML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
