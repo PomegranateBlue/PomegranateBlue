@@ -22,9 +22,7 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   26 mins         ████████████████████░░░░░   79.45 %
-CSS          6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.33 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
