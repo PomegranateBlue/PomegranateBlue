@@ -22,10 +22,9 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   32 mins         ███████████████████████░░   92.36 %
-Bash         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JavaScript   3 mins          ██████████████████████▒░░   89.28 %
+TypeScript   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
