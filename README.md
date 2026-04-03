@@ -22,8 +22,9 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 
 ```txt
-PHP    7 mins                ███████████████████████▓░   95.03 %
-JSON   0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+PHP     21 mins               ██████████████████████░░░   88.06 %
+JSON    2 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
