@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 46 mins          ████████████████████████▒   96.70 %
-TypeScript   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+JavaScript   2 hrs 1 min           ████████████████████████░   96.57 %
+Other        4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
