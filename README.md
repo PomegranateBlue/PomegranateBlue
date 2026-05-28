@@ -22,11 +22,11 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       31 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-Markdown         29 mins               █████░░░░░░░░░░░░░░░░░░░░   20.20 %
-CSS              21 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-GDScript3        20 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
-Other            19 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+TypeScript       34 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.73 %
+Markdown         21 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
+GDScript3        20 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+Other            19 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Godot Resource   9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
 ```
 
 <!--END_SECTION:waka-->
