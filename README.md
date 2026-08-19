@@ -22,8 +22,7 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 
 ```txt
-Python   7 mins                ████████████████████░░░░░   80.12 %
-Other    1 min                 █████░░░░░░░░░░░░░░░░░░░░   19.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
